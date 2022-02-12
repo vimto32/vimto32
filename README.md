@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimto32
 - 👀 I’m interested in proggraming
-- 🌱 I’m currently learning bootstap5
+- 🌱 I’m currently learning bootstrap5
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me by app2015@hotmail.com
 <!---
